@@ -1,0 +1,6 @@
+{
+  "name": "TransOriente Express · Asistente IA",
+  "description": "Agente conversacional con Gemini para atención al cliente, cotizaciones en Bolivianos y captura de leads en Santa Cruz, Bolivia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
